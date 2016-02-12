@@ -1,0 +1,85 @@
+big:
+File System Counters
+		FILE: Number of bytes read=5248674
+		FILE: Number of bytes written=3195288
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=2592650
+		HDFS: Number of bytes written=304776
+		HDFS: Number of read operations=1641
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=16
+	Map-Reduce Framework
+		Map input records=146
+		Map output records=146
+		Map output bytes=100604
+		Map output materialized bytes=101130
+		Input split bytes=130
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=2
+		Reduce shuffle bytes=101130
+		Reduce input records=146
+		Reduce output records=146
+		Spilled Records=292
+		Shuffled Maps =1
+		Failed Shuffles=0
+		Merged Map outputs=1
+		GC time elapsed (ms)=7
+		Total committed heap usage (bytes)=1029701632
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=102638
+	File Output Format Counters 
+		Bytes Written=99500
+
+
+
+small:
+File System Counters
+		FILE: Number of bytes read=1095872
+		FILE: Number of bytes written=2252620
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=538
+		HDFS: Number of bytes written=412
+		HDFS: Number of read operations=43
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=16
+	Map-Reduce Framework
+		Map input records=3
+		Map output records=3
+		Map output bytes=70
+		Map output materialized bytes=82
+		Input split bytes=130
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=1
+		Reduce shuffle bytes=82
+		Reduce input records=3
+		Reduce output records=3
+		Spilled Records=6
+		Shuffled Maps =1
+		Failed Shuffles=0
+		Merged Map outputs=1
+		GC time elapsed (ms)=0
+		Total committed heap usage (bytes)=934281216
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=180
+	File Output Format Counters 
+		Bytes Written=52
